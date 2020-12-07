@@ -1,10 +1,12 @@
 {
-    "name": "faster-handmining",
-    "version": "0.0.1",
-    "date": "2019-05-17",
-    "title": "Faster Hand Mining Tech",
-    "author": "EnigmaticAussie",
-    "dependencies": ["base"],
-    "description": "Adds more tiers of hand mining speed.",
-    "factorio_version": "0.17"
+  "name": "faster-handmining",
+  "version": "2020.12.07",
+  "date": "2019-05-17",
+  "title": "Faster Hand Mining Tech",
+  "author": "EnigmaticAussie",
+  "dependencies": [
+    "base"
+  ],
+  "description": "Adds more tiers of hand mining speed.",
+  "factorio_version": "1.1"
 }
